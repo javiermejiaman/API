@@ -2,12 +2,7 @@
 Reto de programación - Rest API - Javier Mejia
 
 ## Requerimientos
-El proyecto fue creado en el IDE IntelliJ IDEA versión 2020.2, todas las dependencias son cargadas a través de Maven. Se requiere de un servidor MySQL y una base de datos con el nombre restapi.
-
-## Configuración del proyecto
-Para poder ejecutar el proyecto exitosamente debe modificar el archivo _application.properties_ con sus credenciales de MySQL y la dirección y puerto en la que se encuentra hosteado el servicio.
-
-![Configuration](/capturas/Config.jpg)
+El proyecto fue creado en el IDE IntelliJ IDEA versión 2020.2, todas las dependencias son cargadas a través de Maven.
 
 ## Uso del API
 
